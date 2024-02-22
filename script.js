@@ -32,15 +32,15 @@ const containerQC = document.getElementById('container-qc');
 for(let i = 1; i <= 100; i++) {
     if(i % 3 === 0 && i % 5 === 0){
         containerQC.innerHTML += `
-            <div class="box mix">${i}</div>
+            <div class="box mix">FizzBuzz</div>
         `
     } else if (i % 3 === 0){
         containerQC.innerHTML += `
-            <div class="box tre">${i}</div> 
+            <div class="box tre">Fizz</div> 
         `
     } else if (i % 5 === 0){
         containerQC.innerHTML += `
-            <div class="box cinque">${i}</div> 
+            <div class="box cinque">Buzz</div> 
         `
     } else {
         containerQC.innerHTML += `
