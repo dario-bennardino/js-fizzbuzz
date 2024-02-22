@@ -9,7 +9,7 @@ Crea un container nel DOM , aggiungendo (attraverso la funzione `append()` oppur
 Applica stili differenti agli elementi aggiunti al DOM nel *BONUS 1*, a seconda che il valore inserito sia un numero, un fizz, un buzz o un fizzbuzz.
 
 ## Svolgimento
-con js utilizzo ciclo for impostando <br> for(let i=1; i<100; i++) <br> in questo modo parte da 1 fin quando non arriva a 100 mi incrementa di uno.<br>
+con js utilizzo ciclo for impostando <br> for(let i=1; i<=100; i++) <br> in questo modo parte da 1 fin quando non arriva a 100 mi incrementa di uno. Poi faccio console log<br>
 devo assegnare delle condizioni per la stampa quindi <br>
 if multipli di 3 stampa Fizz, if else multipli di 5 stampa FizzBuzz, else stampa numero.
 
