@@ -3,13 +3,13 @@ body{
 }
 
 .box{
-    width: 130px;
-    height: 130px;
+    width: 131px;
+    height: 131px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: cadetblue;
+    background-color: #1489B2;
     border: 1px solid black;
     margin: 5px;
-    color: white;
+    color: black;
   }

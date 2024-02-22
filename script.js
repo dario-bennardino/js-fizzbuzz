@@ -16,11 +16,21 @@ for (let i = 1; i <=100; i++) {
     
 }
 
-// Bonus
+// Bonus 2
 
 const containerQ = document.getElementById('container-q');
 
 for(let i = 1; i <= 100; i++) {
     containerQ.innerHTML += `<div class="box"> ${i} </div>`
+    
+       
+}
+
+
+const containerQC = document.getElementById('container-qc');
+
+for(let i = 1; i <= 100; i++) {
+    containerQC.innerHTML += `<div class="box"> ${i} </div>`
+    
        
 }
