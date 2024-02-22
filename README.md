@@ -10,6 +10,6 @@ Applica stili differenti agli elementi aggiunti al DOM nel *BONUS 1*, a seconda 
 
 ## Svolgimento
 con js utilizzo ciclo for impostando <br> for(let i=1; i<=100; i++) <br> in questo modo parte da 1 fin quando non arriva a 100 mi incrementa di uno. Poi faccio console log<br>
-devo assegnare delle condizioni per la stampa quindi <br>
-if multipli di 3 stampa Fizz, if else multipli di 5 stampa FizzBuzz, else stampa numero.
+Devo assegnare delle condizioni <br>
+if multipli di 3 e multiplo di 5 vero entrambe utilizzando and allora stampa Fizzbuzz, se invece else if multiplo di 3 con modulo di 3 uguale a zero allora stampa Fizz, se invece else if multiplo di 5 con modulo di 5 uguale a zero allora stampa Buzz, altrimenti else stampa numero ovvero i.
 
